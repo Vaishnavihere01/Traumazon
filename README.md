@@ -1,4 +1,3 @@
-# Traumazon
 # TruamaZon - The Funny Store
 
 Welcome to **TruamaZon**! The store where we sell products you never knew you needed (and some that might not even exist)!
